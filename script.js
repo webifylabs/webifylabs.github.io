@@ -214,7 +214,6 @@ document.addEventListener('DOMContentLoaded', () => {
     new ScrollAnimator();
     new ParallaxEffect();
     new SmoothScroll();
-    new MouseFollower();
     new FloatingCards();
     
     // Add loading animation
